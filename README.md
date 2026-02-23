@@ -1,45 +1,45 @@
-<h1 align="center">გამარჯობა, მე Tako ვარ! 👋</h1>h1>
+# Hi, I'm Tako! 👋
 
-<p align="center">
-  <b>Full-Stack Developer | AI Enthusiast | Georgian Tech Builder</b>b>
-</p>p>
+**AI Agent Builder | Vibe Coder | Automation Enthusiast**
 
-<p align="center">
-  <a href="https://github.com/TakoTechie1?tab=repositories">
-        <img src="https://img.shields.io/badge/📁 ჩემი პროექტები-blue?style=for-the-badge" alt="Projects"/>
-  </a>a>
-</p>p>
+> Building with AI agents, n8n, Make, and vibe coding - one flow at a time ✨
 
 ---
 
-## 🚀 ჩემი პროექტები
+## 🚀 My Projects
 
-| პროექტი | აღწერა | ტექნოლოგია |
-|--------|---------|------------|
-| [🧠 smart-kid-quiz](https://github.com/TakoTechie1/smart-kid-quiz) | ინტერაქტიული სასწავლო ვიქტორინა ქართველი ბავშვებისთვის (1-8 კლასი) | JavaScript |
-| [📧 email-manager-agent](https://github.com/TakoTechie1/email-manager-agent) | AI-ზე დაფუძნებული email მართვის სისტემა Claude-ის გამოყენებით | Python |
-| [🤖 humanoid-robots-hub](https://github.com/TakoTechie1/-) | Humanoid Robots Learning Hub აპლიკაცია | TypeScript |
-| [⚡ nextjs-boilerplate](https://github.com/TakoTechie1/nextjs-boilerplate) | Next.js-ის საბაზო შაბლონი | TypeScript |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [smart-kid-quiz](https://github.com/TakoTechie1/smart-kid-quiz) | Interactive quiz for Georgian kids (grades 1-8) | JavaScript |
+| [email-manager-agent](https://github.com/TakoTechie1/email-manager-agent) | AI agent that automates email management using Claude | Python |
+| [humanoid-robots-hub](https://github.com/TakoTechie1/-) | Humanoid Robots Learning Hub app | TypeScript |
+| [nextjs-boilerplate](https://github.com/TakoTechie1/nextjs-boilerplate) | Next.js starter template | TypeScript |
 
 ---
 
-## 🛠️ ტექნოლოგიები
+## 🧠 What I Do
 
+- 🤖 **AI Agents** - Building autonomous agents that get things done
+- ⚡ **n8n & Make (Integromat)** - Automating workflows without limits
+- 📱 **Vibe Coding** - Shipping apps fast with AI assistance
+- 🔧 **No-Code / Low-Code** - Turning ideas into products quickly
+
+---
+
+## 🛠️ Tools & Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 ---
 
-## 📊 GitHub სტატისტიკა
+## 📊 GitHub Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TakoTechie1&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TakoTechie1&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-<p align="center">✨ <i>კოდი ცვლის სამყაროს — ერთი commit-ი ჯერ</i>i> ✨</p>p></i>
-  </b>
+✨ _Agents > Apps > Automation — that’s my world_ ✨
